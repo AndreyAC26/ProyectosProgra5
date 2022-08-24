@@ -1,0 +1,11 @@
+C:\Progra V\Ex1OAAC\bin\Debug\Ex1OAAC.exe.config
+C:\Progra V\Ex1OAAC\bin\Debug\Ex1OAAC.exe
+C:\Progra V\Ex1OAAC\bin\Debug\Ex1OAAC.pdb
+C:\Progra V\Ex1OAAC\obj\Debug\Ex1OAAC.csproj.AssemblyReference.cache
+C:\Progra V\Ex1OAAC\obj\Debug\Ex1OAAC.csproj.SuggestedBindingRedirects.cache
+C:\Progra V\Ex1OAAC\obj\Debug\Ex1OAAC.MainMenu.resources
+C:\Progra V\Ex1OAAC\obj\Debug\Ex1OAAC.Properties.Resources.resources
+C:\Progra V\Ex1OAAC\obj\Debug\Ex1OAAC.csproj.GenerateResource.cache
+C:\Progra V\Ex1OAAC\obj\Debug\Ex1OAAC.csproj.CoreCompileInputs.cache
+C:\Progra V\Ex1OAAC\obj\Debug\Ex1OAAC.exe
+C:\Progra V\Ex1OAAC\obj\Debug\Ex1OAAC.pdb

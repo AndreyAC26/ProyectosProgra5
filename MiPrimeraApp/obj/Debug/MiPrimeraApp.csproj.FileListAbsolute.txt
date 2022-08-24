@@ -1,0 +1,13 @@
+C:\Progra V\MiPrimeraApp\bin\Debug\MiPrimeraApp.exe.config
+C:\Progra V\MiPrimeraApp\bin\Debug\MiPrimeraApp.exe
+C:\Progra V\MiPrimeraApp\bin\Debug\MiPrimeraApp.pdb
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.AssemblyReference.cache
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.SuggestedBindingRedirects.cache
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.Properties.Resources.resources
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.GenerateResource.cache
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.csproj.CoreCompileInputs.cache
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.exe
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.pdb
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.Formularios.MenuPrincipal.resources
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.Formularios.SegundoFormulario.resources
+C:\Progra V\MiPrimeraApp\obj\Debug\MiPrimeraApp.Formularios.MenuPrincipalV2.resources

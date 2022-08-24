@@ -1,0 +1,14 @@
+C:\Progra V\AppPractica\bin\Debug\AppPractica.exe.config
+C:\Progra V\AppPractica\bin\Debug\AppPractica.exe
+C:\Progra V\AppPractica\bin\Debug\AppPractica.pdb
+C:\Progra V\AppPractica\obj\Debug\AppPractica.csproj.AssemblyReference.cache
+C:\Progra V\AppPractica\obj\Debug\AppPractica.csproj.SuggestedBindingRedirects.cache
+C:\Progra V\AppPractica\obj\Debug\AppPractica.frmClientes.resources
+C:\Progra V\AppPractica\obj\Debug\AppPractica.MenuPrincipal.resources
+C:\Progra V\AppPractica\obj\Debug\AppPractica.Properties.Resources.resources
+C:\Progra V\AppPractica\obj\Debug\AppPractica.csproj.GenerateResource.cache
+C:\Progra V\AppPractica\obj\Debug\AppPractica.csproj.CoreCompileInputs.cache
+C:\Progra V\AppPractica\obj\Debug\AppPractica.exe
+C:\Progra V\AppPractica\obj\Debug\AppPractica.pdb
+C:\Progra V\AppPractica\bin\Debug\DataBase\DB01.mdf
+C:\Progra V\AppPractica\bin\Debug\DataBase\DB01_log.ldf

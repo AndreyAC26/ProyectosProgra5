@@ -1,0 +1,6 @@
+C:\Progra V\LibreriaDatos2\bin\Debug\LibreriaDatos2.dll
+C:\Progra V\LibreriaDatos2\bin\Debug\LibreriaDatos2.pdb
+C:\Progra V\LibreriaDatos2\obj\Debug\LibreriaDatos2.csproj.AssemblyReference.cache
+C:\Progra V\LibreriaDatos2\obj\Debug\LibreriaDatos2.csproj.CoreCompileInputs.cache
+C:\Progra V\LibreriaDatos2\obj\Debug\LibreriaDatos2.dll
+C:\Progra V\LibreriaDatos2\obj\Debug\LibreriaDatos2.pdb
